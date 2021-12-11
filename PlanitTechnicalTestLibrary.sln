@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanitTechnicalTestLibrary", "PlanitTechnicalTestLibrary.csproj", "{00B47CD0-01DC-47AB-8529-53BEBCCD5BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B47CD0-01DC-47AB-8529-53BEBCCD5BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B47CD0-01DC-47AB-8529-53BEBCCD5BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B47CD0-01DC-47AB-8529-53BEBCCD5BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B47CD0-01DC-47AB-8529-53BEBCCD5BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75EEBBAE-0E6A-42DA-943F-BEE7A82DD3CA}
+	EndGlobalSection
+EndGlobal
